@@ -1,3 +1,4 @@
+# {...}
 # cp-resources
 This repo contains a collection of various helpful resources including code, links to sites, tutorials, problemsets etc.
 
