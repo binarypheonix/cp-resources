@@ -31,3 +31,26 @@ If you want to add something to the repo, just open an issue or hit a PR.
 * [MITOCW 6.046J](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp): Design and Analysis of Algorithms, 2015.
 * [GeeksForGeeks](geeksforgeeks.org): Best online resource for all algorithmic quickies and queries.
 * [Quick DSA Crash-Course](https://www.javatpoint.com/data-structure-tutorial): For people in a hurry! P.S. No need to be!
+
+## Books
+
+**List of important books and other online resources for algo and other stuff.TODO:*Update***
+
+## DS&Algo Topics
+
+This section contains an organised set of resources, divided into topics, and categorised by the level of complexity(actual, not computational! Lol.)
+
+### Beginner
+
+> Topics for people getting started with Competitive Programming.
+
+### Intermediate
+
+> Topics for people with some experience with CP, but a desire to go above and beyond.
+
+### Advanced
+
+> Topics related to highly important concepts and algorithms that are used for solving the most difficult of problems.
+
+*Happy Learning and may the source be with you! :zap: *
+
