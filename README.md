@@ -25,6 +25,7 @@ If you want to add something to the repo, just open an issue or hit a PR.
 * [Sphere Online Judge](https://spoj.com): A solid online judge for solving brain-draining problems.
 * [Codezinger](https://codezinger.com): TBH, haven't tried it, see for yourself!
 * [Kenkoooo Atcoder Problemset](https://kenkoooo.com/atcoder/#/table/): Categorised set of AtCoder problems by topic and difficulty.
+* [Codeforces Ladders](https://github.com/karansinghgit/CodeForces-Ladders): Categorised Codeforces problems by Problem No.(A,B,C,D,E) in div.2.  
 
 ## Data Structures and Algorithms
 
