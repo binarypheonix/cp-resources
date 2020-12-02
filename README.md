@@ -1,4 +1,5 @@
-# {...} 
+<img src="code_red.png" height="100" width="100"/>
+
 # cp-resources
 This repo contains a collection of various helpful resources including code, links to sites, tutorials, problemsets etc.
 
